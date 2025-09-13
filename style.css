@@ -6,3 +6,10 @@ h2 {
     color: blue;
     background-color: blueviolet; 
 }
+
+th{
+    border: 2px solid purple;
+}
+td{
+    border: 2px solid black;
+}
